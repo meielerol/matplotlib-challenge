@@ -26,6 +26,10 @@ The executive team has asked for a top level summary fo the study results which 
     - IQR per regimen
     - Outliers per regimen & highlight with different color
 
+- Select a mouse treated with Camopulin and generate a line plot of the tumor volume vs. time point for that specific mouse
+- Generate a scatter plot of mouse weight vs. avg tumor volume for Capomulin treament regimen
+- Calculate correlation coefficient and linear regression model between mouse weight and avg tumor volume for Capomulin treament. Plot the linear regression model on top of the previous scatter plot.
 
 ## Analysis
 
+Looking at all figures and tables include at least 3 observations or inferences that can be made from the data and include this at the top of the notebook.
