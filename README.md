@@ -33,3 +33,8 @@ The executive team has asked for a top level summary fo the study results which 
 ## Analysis
 
 Looking at all figures and tables include at least 3 observations or inferences that can be made from the data and include this at the top of the notebook.
+
+1. Neither gender nor mice population size per drug regimen group affected the results. There were between 24-25 mice per study and it was a 49% to 51% split between females and males.
+2. Of the four most promising drug regimens [Capomulin, Ceftamin, Infubinol, Ramicane] Capomulin and Ramicane performed similarly to one another, while Ceftamin and Infubinol performed similarly to one another. Both Capomulin and Ramicane resulted in lower tumor volumes on average than Ceftamin and Infubinol. Out of the whole group there were no outliers when analyzed collectively and Infubinol only had one outlier when analyzed individually.
+3. Using mouse g288’s results, Capomulin demonstrated a reduction in the tumor volume overall. There seemed to be a brief increase, then drop, brief increase, then drop that trended through the study.
+4. When comparing weight to tumor volume we saw a moderate positive correlation between the two with a factor of 0.53.
